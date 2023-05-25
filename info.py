@@ -32,9 +32,9 @@ class evamaria(Client):
             ":memory:",
             plugins=dict(root=f"{name}/plugins"),
             workdir=TMP_DOWNLOAD_DIRECTORY,
-            api_id=APP_ID,
-            api_hash=API_HASH,
-            bot_token=BOT_TOKEN,
+            api_id=29441782,
+            api_hash=fcd2518e068b5a42cd8fa40bdb76302a,
+            bot_token=6207887069:AAEIa06I3hVlS55zFwaN_74-qCA7afzFNwg,
             parse_mode=enums.ParseMode.HTML,
             sleep_threshold=60
         )
